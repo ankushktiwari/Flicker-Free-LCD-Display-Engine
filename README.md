@@ -6,6 +6,7 @@ rotate on a non-blocking timer, and any critical fault immediately takes over th
 until the operator clears it.
 
 ▶ **Run it live:**<https://wokwi.com/projects/476952611904086017>
+video <https://lnkd.in/p/gxW7NK9P>
 
 
 ## Features
